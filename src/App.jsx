@@ -1,10 +1,12 @@
 import React from 'react'
 import Sidebar from './components/Sidebar/Sidebar'
+import Main from './components/Main/Main'
 
 const App = () => {
   return (
     <>
     <Sidebar/>
+    <Main/>
       </>
   )
 }
@@ -12,4 +14,4 @@ const App = () => {
 export default App
 
 
-//9:27 
+//91:z10:28 
